@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gascraft971
-- 👀 I’m interested in coding, dogs and coding
+- 👋 Hi, I’m @CPlusPatch
+- 👀 I’m interested in coding, dogs and games
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me with my email address: gascraft971@gmail.com
+- 📫 My email: gascraft971@gmail.com
 
 <!---
 gascraft971/gascraft971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
