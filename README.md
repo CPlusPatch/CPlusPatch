@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CPlusPatch
 - 👀 I’m interested in coding, dogs and games
 - 🌱 I’m currently learning Laravel
-- 📫 My email: gascraft971@gmail.com
+- 📫 My email: contact@cpluspatch.com
 
 Hey, it's me, @CPlusPatch, welcome to my GitHub.
 I haven't done much for the world so all of my stuff is private, but if I actually decide to get a move on and actually make something useful well then it'll show up here.
