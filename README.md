@@ -1,4 +1,6 @@
-![My banner](assets/banner.gif)
+<center>
+<img src="assets/banner.gif" alt="My banner">
+</center>
 
 ## 👉 A little about me
 
