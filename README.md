@@ -14,9 +14,6 @@ class CPlusPatch(Developer):
 		self.interests = ["🐕 Dogs", "💻 Coding", "🔧 Computers", "🖥️ Reddit", \
 			"🎛️ Linux", "📱 Android"]
 		self.pronouns = ["He", "Him"]
-	
-	def code(self):
-		return "1337C0D3"
 
 if __name__ == "__main__":
 	me = CPlusPatch()
@@ -28,8 +25,6 @@ What even is sunlight lmao
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![CPlusPatch](https://img.shields.io/badge/CPlusPatch-100000?style=for-the-badge)
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![gaspard_wski](https://img.shields.io/badge/@gaspard__wski-E4405F?style=for-the-badge)
-
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ![Gascraft971](https://img.shields.io/badge/u/Gascraft971-FF4500?style=for-the-badge)
 
 ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![CPlusPatch](https://img.shields.io/badge/@CPlusPatch-FE7A16?style=for-the-badge)
@@ -39,7 +34,7 @@ What even is sunlight lmao
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![CPlusPatch#9373](https://img.shields.io/badge/CPlusPatch%239373-5865F2?style=for-the-badge)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) \
-`gaspard.wierzbinski@gmail.com` `contact@cpluspatch.com`
+`gaspard.wierzbinski@gmail.com` `contact@cpluspatch.com` (i can't be bothered to log into that last one)
 
 ## 👉 Languages + Frameworks
 
