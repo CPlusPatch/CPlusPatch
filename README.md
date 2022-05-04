@@ -81,7 +81,7 @@ What even is sunlight lmao
 ![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
-![](https://img.shields.io/badge/Apple-Mac_Mini_2018-333333?style=for-the-badge&logo=apple&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Cool-gaming_pc-333333?style=for-the-badge&logo=nvidia&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [![My Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=ulzj1q1muil9sjy87f4krzdoa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ulzj1q1muil9sjy87f4krzdoa&redirect=true)
 
