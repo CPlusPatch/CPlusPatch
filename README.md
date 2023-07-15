@@ -1,3 +1,3 @@
-# I HAVE MOVED TO CODEBERG.ORG
+# Hello there!
 
--> https://codeberg.org/CPlusPatch
+My name is Gaspard Wierzbinski, also known as CPlusPatch. You can find some of my other projects at https://codeberg.org/CPlusPatch!
