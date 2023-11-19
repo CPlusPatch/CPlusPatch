@@ -1,4 +1,4 @@
-<center> <img src="https://raw.githubusercontent.com/CPlusPatch/CPlusPatch/main/banner.webp" /> </center>
+![Image](https://raw.githubusercontent.com/CPlusPatch/CPlusPatch/main/assets/minecraft_title.png)
 
 # 👋 Hey, I'm CPlusPatch
 
